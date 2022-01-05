@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Brand = () => {
+const Blog = () => {
   return (
     <div>
-      Brand
+      Blog
     </div>
   )
 }
 
-export default Brand
+export default Blog

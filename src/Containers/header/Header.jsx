@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Brand = () => {
+const Header = () => {
   return (
     <div>
-      Brand
+      Header
     </div>
   )
 }
 
-export default Brand
+export default Header
